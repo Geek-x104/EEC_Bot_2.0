@@ -1,0 +1,27 @@
+{
+  "name": "eec-bot2",
+  "version": "1.0.0",
+  "description": "EEC bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geek-x104/EEC_Bot_2.0.git"
+  },
+  "author": "Geek-x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geek-x104/EEC_Bot_2.0/issues"
+  },
+  "homepage": "https://github.com/Geek-x104/EEC_Bot_2.0#readme",
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.10.0"
+  }
+}
